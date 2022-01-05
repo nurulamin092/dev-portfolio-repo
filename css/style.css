@@ -10,10 +10,7 @@
     .text-color{
         color:coral;
     }
-    .top-banner{
-        background-image: url("images/top-banner.png");
-        background-repeat: no-repeat;
-    }
+ 
     .half-width{
         width: 50%;
         margin: 40px;
@@ -29,12 +26,15 @@
         color: white;
         border-radius: 10px;
     }
-
     .top-banner{
-        background-image: url(../images/top-banner.png);
+        background-image: url("images/top-banner.png");
+        background-repeat: no-repeat;
     }
 
     .dream-baneer{
-        background-image: url("images/dream-bd.png");
+        background-image: url(../images/dream-bg.png);
+        background-repeat: no-repeat;
+        background-position: right;
+
     }
 
