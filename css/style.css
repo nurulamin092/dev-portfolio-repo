@@ -7,12 +7,16 @@
         display: flex;
 
     }
-    .setion-area{
+    .text-color{
+        color:coral;
+    }
+    .top-banner{
         background-image: url("images/top-banner.png");
+        background-repeat: no-repeat;
     }
     .half-width{
         width: 50%;
-        margin: 10px;
+        margin: 40px;
     }
     .half-width img{
         width: 80%;
@@ -22,5 +26,15 @@
         text-decoration: none;
         background-image: linear-gradient(tomato , orange);
         font-size: 50px;
+        color: white;
+        border-radius: 10px;
+    }
+
+    .top-banner{
+        background-image: url(../images/top-banner.png);
+    }
+
+    .dream-baneer{
+        background-image: url("images/dream-bd.png");
     }
 
