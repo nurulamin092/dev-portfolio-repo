@@ -10,6 +10,9 @@
     .text-color{
         color:coral;
     }
+    h1 span{
+        color: orange;
+    }
  
     .half-width{
         width: 50%;
