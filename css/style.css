@@ -41,3 +41,7 @@
         background-position: right;
         padding-right:10%;
     }
+    .experiences-area{
+        background-image: url(../images/exp-bg.png);
+        background-repeat: no-repeat;
+    }
