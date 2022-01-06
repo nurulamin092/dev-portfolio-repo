@@ -6,9 +6,9 @@
     h1{
         font-size: 50px; 
     }
-
-    h1 span{
-        color:orange
+ 
+    .orange-color{
+        color: orange;
     }
     .flexible-container{
         display: flex;
