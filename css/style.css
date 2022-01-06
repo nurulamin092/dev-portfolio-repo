@@ -6,6 +6,9 @@
     h1{
         font-size: 50px; 
     }
+    h2{
+        font-size: 40px;
+    }
  
     .orange-color{
         color: orange;
@@ -31,6 +34,24 @@
         font-weight: 700;
         background-image: linear-gradient(tomato,orange);
     }
+    .experiences-item{
+        width: 40%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding: 20px;
+        border-radius: 5px;
+        box-shadow: 10px 10px 40px  gray;
+
+    }
+    #full-stack-web-dev{
+        border-left: 5px solid ;
+        border-image: linear-gradient(red, blue);
+        border-image-slice: 1;
+    }
+    #baby-web-dev{
+        border-left: 5px solid;
+        border-image: linear-gradient(blue, cyan) 1;
+    }
     .top-banner{
         background-image: url(../images/top-banner.png);
         background-repeat: no-repeat;
@@ -44,4 +65,7 @@
     .experiences-area{
         background-image: url(../images/exp-bg.png);
         background-repeat: no-repeat;
+        background-position: left;
+      
     }
+
